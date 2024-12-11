@@ -26,7 +26,7 @@ src/
     ├── models/ 
     ├── routes/ 
     ├── services/ 
-        └── utils/
+    └── utils/
 
 - **controllers/** : Contient les fichiers de contrôleurs.  
 - **models/** : Définit les modèles de données (exemple : User, Product).  
