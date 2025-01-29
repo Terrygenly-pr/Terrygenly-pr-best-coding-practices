@@ -8,12 +8,7 @@ Bienvenue dans **Best Coding Practices**, un guide pour aider les développeurs 
 
 ## 📚 Contenu du Repository
 
-- [Architecture](docs/architecture.md): Agencement des fichiers pour une facilté de lecture.
-- [Clean Code](docs/best-practices-coding.md): Techniques pour écrire un code clair et lisible.
-- [Performance Optimization](docs/performance.md): Stratégies pour améliorer les performances.
-- [Secure Coding](docs/secure-coding.md): Conseils pour éviter les vulnérabilités courantes.
-- [Testing](docs/testing.md): Guide pour écrire des tests efficaces.
-<!-- - [Exemples](examples): Exemples de code pour démontrer les meilleures pratiques. -->
+A revoir
 
 ---
 

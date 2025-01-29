@@ -77,4 +77,3 @@ L'optimisation des performances est essentielle pour garantir que vos applicatio
 L'optimisation des performances doit être une priorité tout au long du cycle de vie du développement. Les meilleures pratiques doivent être appliquées dès le début, mais des ajustements continus et des tests réguliers sont nécessaires à mesure que votre projet se développe.
 
 N'oubliez pas que **la lisibilité et la maintenabilité du code** doivent toujours primer. L'optimisation ne doit pas compromettre la clarté du code, surtout si des gains de performance minimes peuvent être obtenus de manière plus propre.
-
